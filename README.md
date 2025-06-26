@@ -3,6 +3,8 @@ useJsonFetch
 
 [GITHUB Pages](https://BudTon.github.io/ra_hooks-context_use-json-fetch/)
 
+[![pages-build-deployment](https://github.com/BudTon/ra_hooks-context_use-json-fetch/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/BudTon/ra_hooks-context_use-json-fetch/actions/workflows/pages/pages-build-deployment)
+
 Реализуйте кастомный хук `useJsonFetch`, который позволяет с помощью `fetch` осуществлять HTTP-запросы.
 
 Использование этого хука должно выглядеть следующим образом:
